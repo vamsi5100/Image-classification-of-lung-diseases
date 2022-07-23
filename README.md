@@ -1,1 +1,1 @@
-# Image-classificaion-of-lung-diseases
+# Image-classification-of-lung-diseases
